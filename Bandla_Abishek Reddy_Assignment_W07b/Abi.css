@@ -1,0 +1,48 @@
+﻿body {
+    background-color: #d0e4fe
+     }
+h1 {
+    color: orange;
+    text-align: center;
+}
+
+p2 {
+    font-family: "Times New Roman";
+    font-size: 20px;   
+}
+
+p2{
+   Color: Red;
+  }
+div1 {
+    border: 5px solid red;
+}
+
+div2 {
+    border: 5px solid brown;
+}
+
+body {
+    background-color: #d0e4fe;
+}
+
+
+p3 {
+    font-family: "Calibri";
+    font-size: 30px;
+    Color: Green;
+}
+hr.style4 {
+	border-top: 1px dotted #8c8b8b;
+}
+
+p5 {
+    font-family: "Arial Black";
+    font-size: 20px;
+    Color: Grey;
+}
+hr.style3 {
+	border-top: 1px dashed #8c8b8b;
+}
+
+
